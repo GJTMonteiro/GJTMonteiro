@@ -14,4 +14,4 @@
 
 ## 📫 Contact
 - Email: guilhermejtmonteiro2003@gmail.com
-- LinkedIn: [link](https://www.linkedin.com/in/guilherme-monteiro-709a9036a/)
+- LinkedIn: [Guilherme Monteiro](https://www.linkedin.com/in/guilherme-monteiro-709a9036a/)
