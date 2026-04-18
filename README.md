@@ -7,6 +7,7 @@
 - HTML
 - CSS
 - JavaScript
+- Git
 
 ## 🚀 Projects
 - 🔗 Project 1 (link)
